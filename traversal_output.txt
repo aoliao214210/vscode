@@ -1,0 +1,1 @@
+characters such as some words may have numbers like but those should be ignored the program it contains punctuation marks like 
